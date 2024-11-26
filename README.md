@@ -1,6 +1,6 @@
 # 3D Framework Guide
 
-The **3D Framework** is a practical system designed to help you break down big goals into actionable tasks and ensure consistent progress. Its core principle is simple yet powerful: **Urgency is the catalyst for action**. By working in **3-day cycles**, you focus on what can realistically be accomplished, fostering momentum and avoiding procrastination.
+The **3D Framework** is a practical system designed to help you break down big goals into actionable tasks and ensure consistent progress. Its core principle is simple yet powerful: **Urgency drives action**. By working in **3-day cycles**, you focus on what can realistically be accomplished, fostering momentum and avoiding procrastination.
 
 ---
 
